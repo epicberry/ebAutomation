@@ -1,0 +1,22 @@
+{
+  "name": "ebautomation",
+  "version": "1.0.0",
+  "description": "Test Automation",
+  "main": "app.js",
+  "dependencies": {
+    "node-horseman": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicberry/ebAutomation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epicberry/ebAutomation/issues"
+  },
+  "homepage": "https://github.com/epicberry/ebAutomation#readme"
+}
